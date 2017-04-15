@@ -1,5 +1,9 @@
 # BigClown Repository bcp-color-kid-game
 
+## Video
+
+https://www.youtube.com/watch?v=RT_74H5L6DQ
+
 ## Description
 
 Easy kid game for learning basic colors. Random colors are moving in LED strip and one of them appears after pressing the button. Than kid have to say name of displayed color. The animation continues after pressing the button again.
