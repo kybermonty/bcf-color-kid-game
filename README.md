@@ -12,11 +12,11 @@ Easy kid game for learning basic colors. Random colors are moving in LED strip a
 
 ## Requirements
 
-* 1x [BigClown Core Module](https://shop.bigclown.com/products/core-module)
-* 1x [BigClown Power Module](https://shop.bigclown.com/products/power-module)
-* 1x [BigClown Base Module](https://shop.bigclown.com/products/base-module)
-* 1x [AC adapter](https://shop.bigclown.com/products/ac-adaptor-5v-3a)
-* 1x [LED Strip 1m](https://shop.bigclown.com/products/led-stripe-rgbw-1m-144leds-glue)
+* 1x [BigClown Core Module](https://shop.bigclown.com/core-module)
+* 1x [BigClown Power Module](https://shop.bigclown.com/power-module)
+* 1x [BigClown Base Module](https://shop.bigclown.com/base-module)
+* 1x [AC adapter](https://shop.bigclown.com/ac-dc-adapter-5v-3a)
+* 1x [LED Strip 1m](https://shop.bigclown.com/led-strip-rgbw-1m-144-leds)
 
 ---
 
