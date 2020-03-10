@@ -1,6 +1,6 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
-# BigClown Repository bcp-color-kid-game
+# HARDWARIO Repository bcp-color-kid-game
 
 ## Video
 
@@ -12,9 +12,9 @@ Easy kid game for learning basic colors. Random colors are moving in LED strip a
 
 ## Requirements
 
-* 1x [BigClown Core Module](https://shop.bigclown.com/core-module)
-* 1x [BigClown Power Module](https://shop.bigclown.com/power-module)
-* 1x [BigClown Base Module](https://shop.bigclown.com/base-module)
+* 1x [HARDWARIO Core Module](https://shop.bigclown.com/core-module)
+* 1x [HARDWARIO Power Module](https://shop.bigclown.com/power-module)
+* 1x [HARDWARIO Base Module](https://shop.bigclown.com/base-module)
 * 1x [AC adapter](https://shop.bigclown.com/ac-dc-adapter-5v-3a)
 * 1x [LED Strip 1m](https://shop.bigclown.com/led-strip-rgbw-1m-144-leds)
 
